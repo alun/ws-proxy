@@ -1,0 +1,14 @@
+{
+  "name": "ws-proxy",
+  "version": "1.0.0",
+  "description": "Trivial local proxy for websockets to overcome CORS limitations",
+  "main": "ws-proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aleksei Lunacharskii",
+  "license": "ISC",
+  "dependencies": {
+    "websocket": "^1.0.25"
+  }
+}
